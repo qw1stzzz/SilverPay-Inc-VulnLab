@@ -16,3 +16,17 @@ silverpay123
 - Import using VirtualBox or VMware
 - After import, add the subdomains to your `/etc/hosts` file (see above)
 - Recommended network: NAT or Host-Only (do **not** use Bridged)
+
+silverpay.local - main domain 
+Subdomains:
+blog. silverpay. local
+shop. silverpay. local
+portal.silverpay. local
+admin.silverpay.local
+mail.silverpay.local
+api.silverpay.local
+dev.silverpay. local
+status.silverpay. local
+docs.silverpay. local
+support. silverpay. local
+
