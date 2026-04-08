@@ -30,3 +30,34 @@ status.silverpay. local
 docs.silverpay. local
 support. silverpay. local
 
+All Vulnerabilites :
+
+SQL Injection (Login)
+
+Weak Credentials
+
+SQL Injection (Login)
+
+IDOR (Profile)
+
+User Enumeration
+
+SQL Injection (Product)
+
+SSRF (Webhook)
+
+XXE Injection
+
+Stored XSS
+
+Stored XSS
+
+Open Redirect
+
+Path Traversal
+
+Sensitive Data Exposure
+
+Security Misconfiguration
+
+Reflected XSS
