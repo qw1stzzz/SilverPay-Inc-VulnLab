@@ -4,7 +4,7 @@ Intentionally vulnerable penetration testing lab - 15 vulnerabilities - PHP + Ng
 
 **SilverPay Inc. Vulnerable VM (OVA)**
 
-Size: ~XX GB (update with real size)
+Size: ~6.14 GB 
 
 [⬇️ Download OVA from Google Drive] https://drive.google.com/file/d/1m0-muOUfxG5UulvhMVRraCdU65VgCYhK/view?usp=sharing
 
